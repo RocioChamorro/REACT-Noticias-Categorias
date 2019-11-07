@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/REACT-Noticias-Categorias.git/static/css/main.ad7b9162.chunk.css",
+    "main.js": "/REACT-Noticias-Categorias.git/static/js/main.9d5d123d.chunk.js",
+    "main.js.map": "/REACT-Noticias-Categorias.git/static/js/main.9d5d123d.chunk.js.map",
+    "runtime-main.js": "/REACT-Noticias-Categorias.git/static/js/runtime-main.dd1d8848.js",
+    "runtime-main.js.map": "/REACT-Noticias-Categorias.git/static/js/runtime-main.dd1d8848.js.map",
+    "static/js/2.3556e409.chunk.js": "/REACT-Noticias-Categorias.git/static/js/2.3556e409.chunk.js",
+    "static/js/2.3556e409.chunk.js.map": "/REACT-Noticias-Categorias.git/static/js/2.3556e409.chunk.js.map",
+    "index.html": "/REACT-Noticias-Categorias.git/index.html",
+    "precache-manifest.c909bcf89fbfaad4b62808e3f8427da0.js": "/REACT-Noticias-Categorias.git/precache-manifest.c909bcf89fbfaad4b62808e3f8427da0.js",
+    "service-worker.js": "/REACT-Noticias-Categorias.git/service-worker.js",
+    "static/css/main.ad7b9162.chunk.css.map": "/REACT-Noticias-Categorias.git/static/css/main.ad7b9162.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dd1d8848.js",
+    "static/js/2.3556e409.chunk.js",
+    "static/css/main.ad7b9162.chunk.css",
+    "static/js/main.9d5d123d.chunk.js"
+  ]
+}
